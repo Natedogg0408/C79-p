@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+
+#menu{
+    display: none; 
+}
+
+span{
+    margin-bottom:20px;
+}
+
+img{
+    width: 150px;
+    height: 115px; 
+}
+
+#requestbutton{
+    Width: 100px; 
+    height: 50px;  
+    margin-bottom: 50px; 
+}
+
+#menusee-button{
+    margin-top: 250px;
+    width: 350px; 
+    height: 290px; 
+    color: aqua; 
+    font-size: 80px;
+    background-color: forestgreen;
+}
+
+#hideme2{
+    display: none;
+}
+
+#requestbox{
+    margin-top: 350px; 
+    height: 100px;
+    width: 175px; 
+    font-size: 15px; 
+}
+
+#orderbutton{
+    margin-top: 350px; 
+    height: 100px;
+    width: 125px; 
+    font-size: 15px; 
+}
